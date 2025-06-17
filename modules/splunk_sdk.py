@@ -1,9 +1,7 @@
 
 import sys
-from time import sleep
 import splunklib.results as results
 import splunklib.client as client
-import splunklib.results as results
 import requests
 
 
